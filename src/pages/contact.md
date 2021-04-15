@@ -66,5 +66,4 @@ seo:
       relativeUrl: true
 template: contact
 ---
-
-To get in touch fill the form below.
+Let's discuss the Death of the American Dream. Tell me your story. 
