@@ -1,6 +1,6 @@
 ---
 title: About This
-subtitle: This is a short page about me and my work
+subtitle: I'm just a guy in a car trying to figure out our sour land.
 img_path: images/about.jpg
 seo:
   type: stackbit_page_meta
