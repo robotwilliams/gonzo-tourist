@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-img_path: images/contact.jpg
+img_path: /images/Screen Shot 2021-04-14 at 10.20.11 PM.png
 form_id: contactForm
 form_action: /success
 form_fields:
