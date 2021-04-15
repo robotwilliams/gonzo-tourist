@@ -1,7 +1,7 @@
 ---
 title: About This
 subtitle: I'm just a guy in a car trying to figure out our sour land.
-img_path: images/about.jpg
+img_path: /images/Screen Shot 2021-04-14 at 9.57.42 PM.png
 seo:
   type: stackbit_page_meta
   title: About Me
