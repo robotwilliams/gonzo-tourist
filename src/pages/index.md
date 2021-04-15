@@ -5,7 +5,7 @@ more_link_text: Keep reading
 seo:
   type: stackbit_page_meta
   title: Gonzo Tousist
-  description: The preview of the Fjord theme
+  description: 'Buy the ticket, take the ride. '
   extra:
     - name: 'og:type'
       value: website
