@@ -17,7 +17,7 @@ seo:
       value: 'Buy the ticket, take the ride.'
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: /images/Screen%20Shot%202021-04-15%20at%203.35.39%20PM.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
