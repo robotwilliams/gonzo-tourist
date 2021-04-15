@@ -5,7 +5,7 @@ more_link_text: Keep reading
 seo:
   type: stackbit_page_meta
   title: Gonzo Tourist
-  description: 'Buy the ticket, take the ride. '
+  description: 'Buy the ticket, take the ride. Me exploring the USA in my car.'
   extra:
     - name: 'og:type'
       value: website
