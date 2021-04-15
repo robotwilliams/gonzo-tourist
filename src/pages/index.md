@@ -14,7 +14,7 @@ seo:
       value: 'Gonzo Tourist '
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: 'Buy the ticket, take the ride.'
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
