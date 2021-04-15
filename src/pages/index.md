@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   type: stackbit_page_meta
-  title: Gonzo Tousist
+  title: Gonzo Tourist
   description: 'Buy the ticket, take the ride. '
   extra:
     - name: 'og:type'
